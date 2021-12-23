@@ -1,1 +1,2 @@
-# basic_image_classification
+# image_classification with TensorFlow
+fashion mnist
